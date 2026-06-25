@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 streamlit
 openai
+=======
+streamlit
+openai
+>>>>>>> 945d3b649c60d0008e6983699d14f2dc56b7c075
 pillow
